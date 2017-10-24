@@ -5,11 +5,10 @@ WORKDIR /core-web-app
 COPY . ./
 RUN dotnet restore
 
-CMD
 # Copy everything else and build
-#RUN dotnet publish -c Release -o out
+RUN dotnet publish -c Release -o out
 
 # Build runtime image
-#FROM microsoft/aspnetcore:2.0
-#WORKDIR /core-web-app
-##ENTRYPOINT ["dotnet", "core-web-app.dll"]
+FROM microsoft/aspnetcore:2.0
+WORKDIR /core-web-app
+#ENTRYPOINT ["dotnet", "core-web-app.dll"]
