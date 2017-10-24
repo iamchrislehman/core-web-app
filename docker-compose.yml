@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  core-web-app:
+    image: core-web-app
+    build:
+      context: ./core-web-app
+      dockerfile: Dockerfile
