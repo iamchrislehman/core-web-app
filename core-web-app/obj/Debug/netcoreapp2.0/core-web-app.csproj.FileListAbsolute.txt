@@ -1,0 +1,11 @@
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\core-web-app.deps.json
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\core-web-app.runtimeconfig.json
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\core-web-app.runtimeconfig.dev.json
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\core-web-app.dll
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\core-web-app.pdb
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.csprojResolveAssemblyReference.cache
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.csproj.CoreCompileInputs.cache
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.AssemblyInfoInputs.cache
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.AssemblyInfo.cs
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.dll
+c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.pdb
