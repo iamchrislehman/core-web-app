@@ -9,3 +9,4 @@ c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.Assem
 c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.AssemblyInfo.cs
 c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.dll
 c:\research\core-web-app\core-web-app\obj\Debug\netcoreapp2.0\core-web-app.pdb
+c:\research\core-web-app\core-web-app\bin\Debug\netcoreapp2.0\Dockerfile
