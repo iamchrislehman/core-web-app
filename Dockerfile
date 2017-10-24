@@ -11,4 +11,4 @@ RUN dotnet publish -c Release -o out
 # Build runtime image
 FROM microsoft/aspnetcore:2.0
 WORKDIR /core-web-app
-#ENTRYPOINT ["dotnet", "core-web-app.dll"]
+ENTRYPOINT ["dotnet", "core-web-app.dll"]
