@@ -11,5 +11,5 @@
 # Build runtime image
 FROM microsoft/aspnetcore:2.0
 WORKDIR /core-web-app
-COPY ./core-web-app/core-web-app/out .
+COPY ./core-web-app/out .
 ENTRYPOINT ["dotnet", "core-web-app.dll"]
